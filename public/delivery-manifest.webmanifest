@@ -1,0 +1,17 @@
+{
+  "name": "Zandoonline Delivery",
+  "short_name": "Deliveries",
+  "start_url": "./delivery_app.php",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#183c36",
+  "icons": [
+    {
+      "src": "./assets/icons/delivery.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
